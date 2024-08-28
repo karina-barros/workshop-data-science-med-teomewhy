@@ -79,7 +79,7 @@ O modelo final foi aplicado em novos dados para verificar sua capacidade de gene
 
 ## **Conclusões**
 
-Os modelos apresentaram acurácia entre 79% e 81% na base de teste........
+Os modelos apresentaram acurácia entre 79% e 81% na base de teste.
 O projeto mostrou a importância da preparação adequada dos dados e da seleção criteriosa de features.
 
 ## **Referências**
