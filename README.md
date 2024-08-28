@@ -65,13 +65,11 @@ Realizamos o tratamento de dados ausentes, seleção de variáveis, e criamos a 
 
 ### **4. Model**
 
-Diversos modelos de classificação foram treinados, e hiperparâmetros ajustados usando `GridSearchCV`. [Veja detalhes dos modelos e acurácia aqui](#link-para-detalhes).
+Diversos modelos de classificação foram treinados, e hiperparâmetros ajustados usando `GridSearchCV`. [Veja detalhes dos modelos e acurácia aqui](https://teomewhy-primary.cloud.databricks.com/?o=2977606981748304#notebook/541788629925308).
 
 ### **5. Assess**
 
 Os modelos foram comparados com base na acurácia e AUC, e o melhor foi validado no conjunto de teste. O modelo final foi implementado para prever churn em novos dados.
-
-**Template para avaliação de modelos e métricas**: [link para notebook](#link-para-notebook).
 
 ## **Implementação**
 
