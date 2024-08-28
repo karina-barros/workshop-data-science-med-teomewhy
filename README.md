@@ -45,7 +45,7 @@ Nesta etapa, os dados foram transformados e preparados para a modelagem. Utiliza
 - `periodoDoDiaStr`
 - `produtoMaisComprado`
 
-**Template de consultas SQL e transformações realizadas**: [link para notebook](#link-para-o-notebook).
+**Template de consultas SQL e transformações realizadas**: [link para consultas](https://teomewhy-primary.cloud.databricks.com/browse/folders/3088628433384683?o=2977606981748304).
 
 ## **Modelagem e Avaliação**
 
