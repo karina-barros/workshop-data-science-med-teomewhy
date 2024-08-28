@@ -57,7 +57,7 @@ Selecionamos uma amostra representativa dos dados para a análise.
 
 ### **2. Explore**
 
-Realizamos a Análise Exploratória dos Dados (EDA) utilizando `pandas`, `seaborn` e `matplotlib`. [Gráficos e insights aqui](#link-para-gráficos).
+Realizamos a Análise Exploratória dos Dados (EDA) utilizando `pandas`, `seaborn` e `matplotlib`. [Gráficos e insights aqui](graficos.md).
 
 ### **3. Modify**
 
