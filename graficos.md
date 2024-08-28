@@ -43,3 +43,5 @@ retenção e, consequentemente, o valor de vida do cliente (CLV).
 
 Em resumo, os resultados fornecem um caminho bem bom para intervenções estratégicas que podem ajudar a acalmar o churn, priorizando
 clientes em risco e abordando as causas subjacentes ao comportamento de cancelamento.
+
+Para chegarmos ao resultado final dos gráficos, veja aqui o código final: [clique aqui](https://teomewhy-primary.cloud.databricks.com/?o=2977606981748304#notebook/986062750849217)
